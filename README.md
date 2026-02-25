@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on studying how data drift influences ML Models and their results<br>👯 I’m looking to collaborate on solving real world problems that involve Big Data or Data Analytics<br>🤝 I’m looking for help with landing a Data Analytics/ Data Scientist job<br>🌱 I’m currently learning about Big Data<br>
+🔭 I’m currently working on studying how data drift influences ML Models and their results and learning about GANs<br>👯 I’m looking to collaborate on solving real world problems that involve Big Data or Data Analytics<br>🤝 I’m looking for help with landing a Data Analytics/ Data Scientist job<br>🌱 I’m currently learning about Big Data<br>
 
 
 ## 🌐 Socials:
